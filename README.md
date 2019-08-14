@@ -1,1 +1,2 @@
 # IBM-Data-Analysis-Capstone
+In this assignment, you will analyze and predict housing prices using attributes or features such as square footage, number of bedrooms, number of floors and so on. A template notebook is provided in the lab; your job is to complete the ten questions.  You will use Watson Studios to do the analysis, this will allow you to share an image of your Jupyter notebook with a URL.
